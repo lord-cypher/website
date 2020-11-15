@@ -4,10 +4,6 @@
 	
 <h1>Resources</h1>
 
-
-todo - add Ben Eater - youtube channel
-
-
 <table>
 <tr>
 	<th><h2>Books</h2></th>
@@ -15,7 +11,9 @@ todo - add Ben Eater - youtube channel
 <tr>
 	<td><a href="https://kremlin.cc/k&r.pdf">K&R The C Programming Language</a></td>
 </tr>
-
+<tr>
+	<td><a href="http://learnyouahaskell.com/">Learn You A Haskell</a></td>
+</tr>
 </table>
 
 <br>
@@ -46,6 +44,18 @@ todo - add Ben Eater - youtube channel
 <tr>
 	<td><a href="https://www.youtube.com/user/MentalOutlawStudios">Mental Outlaw</a> - Linux Stuff</td>
 </tr>
+
+<tr>
+	<td><a href="https://www.youtube.com/user/eaterbc">Ben Eater</a> - Building a Breadboard Computer/Hardware Stuff</td>
+</tr>
+
+<tr>
+	<td><a href="https://www.youtube.com/user/enyay">Tom Scott</a> - Interesting Videos, and Sometimes Computer Videos</td>
+</tr>
+<tr>
+	<td><a href="https://www.youtube.com/user/Computerphile">Computerphile</a> - More in depth videos on Computer Science</td>
+</tr>
+
 </table>
 
 <br>
@@ -62,6 +72,7 @@ todo - add Ben Eater - youtube channel
 <tr><td><a href="https://wiki.archlinux.org/"> Arch Linux Wiki </a> - The Arch Linux Wiki</td></tr>
 <tr><td><a href="https://wiki.installgentoo.com/index.php/Main_Page">Install Gentoo Wiki</a> - The Install Gentoo Wiki</td></tr>
 <tr><td><a href="https://suckless.org/">Suckless</a> - Suckless</td></tr>
+<tr><td><a href="http://phrack.org/">Phrack</a> - An Ezine about Hacking</td></tr>
 
 </table>
 
@@ -79,13 +90,7 @@ todo - add Ben Eater - youtube channel
 <br>
 
 
-<table>
 
-<tr><th><h2>TV Shows/Movies</h2></th></tr>
-
-<tr><td>Mr Robot</td></tr>
-<tr><td>Ghost in the Shell (Movies, Tv Shows etc.)</td></tr>
-</table>
 
 <br>
 
@@ -100,9 +105,6 @@ todo - add Ben Eater - youtube channel
 
 <table>
 
-
-
-
 <tr><th><h2>Programs List</h2></th></tr>
 
 <tr><td>zathura</td></tr> 
@@ -115,13 +117,6 @@ todo - add Ben Eater - youtube channel
 <tr><td><a href="https://wiki.archlinux.org/index.php">Arch List of Applications</a> - Arch List of Applications</td></tr>
 <tr><td><a href="https://lukesmith.xyz/programs.html">Luke Smith's List of Applications</a> - Luke Smith's List of Applications</td></tr>
 <tr><td><a href="https://suckless.org/rocks/">Suckless list of programs</a> - Suckless List of Programs</td></tr>
-
-
-
-
-
-
-
 
 </table>
 
@@ -149,6 +144,14 @@ todo - add Ben Eater - youtube channel
 	<tr><th><h2>misc</h2></th></tr>
 	<tr><td>Nothing here, come back later</td></tr>
 
+</table>
+
+<table>
+
+<tr><th><h2>TV Shows/Movies</h2></th></tr>
+
+<tr><td>Mr Robot</td></tr>
+<tr><td>Ghost in the Shell (Movies, Tv Shows etc.)</td></tr>
 </table>
 
 </center>
