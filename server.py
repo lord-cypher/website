@@ -229,8 +229,9 @@ def error404(error):
 	return template('blank', content='Nothing here, sorry.')
 
 # for dev
-#run(host='localhost', port=8080, debug=True, reloader=True, server='paste')
+# run(host='localhost', port=8080, debug=True, reloader=True, server='paste')
 
+# for deploy
 
 bottle.run(host='0.0.0.0', port=80, server='paste')
 

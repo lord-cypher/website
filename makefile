@@ -1,6 +1,6 @@
 make:
-	python server.py
+	python3 server.py
 
 install:
-	pip install bottle paste # CherryPy
-	python server.py
+	pip3 install bottle paste
+	python3 server.py
