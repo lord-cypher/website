@@ -13,7 +13,9 @@
 	<tr><td><a href="http://learnyouahaskell.com/"> LearnYouAHaskell - </a> E-book for haskell</td></tr>
 	<tr><td>Phrack - Hacking magazine </td></tr>
 </tr>
-
+<tr>
+	<td><a href="http://learnyouahaskell.com/">Learn You A Haskell</a></td>
+</tr>
 </table>
 
 <br>
@@ -50,11 +52,16 @@
 	<td><a href="https://www.youtube.com/user/enyay">Tom Scott</a> - Basics </td>
 </tr>
 <tr>
-	<td><a href="https://www.youtube.com/user/Computerphile">ComputerPhile</a> - Use of various network tools </td>
+	<td><a href="https://www.youtube.com/user/eaterbc">Ben Eater</a> - Building a Breadboard Computer/Hardware Stuff</td>
+</tr>
+
+<tr>
+	<td><a href="https://www.youtube.com/user/enyay">Tom Scott</a> - Interesting Videos, and Sometimes Computer Videos</td>
 </tr>
 <tr>
-	<td><a href="https://www.youtube.com/user/Computerphile">ComputerPhile</a> - Use of various network tools </td>
+	<td><a href="https://www.youtube.com/user/Computerphile">Computerphile</a> - More in depth videos on Computer Science</td>
 </tr>
+
 </table>
 
 <br>
@@ -71,6 +78,7 @@
 <tr><td><a href="https://wiki.archlinux.org/"> Arch Linux Wiki </a> - The Arch Linux Wiki</td></tr>
 <tr><td><a href="https://wiki.installgentoo.com/index.php/Main_Page">Install Gentoo Wiki</a> - The Install Gentoo Wiki</td></tr>
 <tr><td><a href="https://suckless.org/">Suckless</a> - Suckless</td></tr>
+<tr><td><a href="http://phrack.org/">Phrack</a> - An Ezine about Hacking</td></tr>
 
 </table>
 
@@ -91,7 +99,6 @@
 <tr><td>Mr Robot</td></tr>
 <tr><td>Ghost in the Shell (Movies, Tv Shows etc.)</td></tr>
 </table>
-
 <br>
 
 <table>
@@ -141,6 +148,14 @@
 	<tr><th><h2>misc</h2></th></tr>
 	<tr><td>Nothing here, come back later</td></tr>
 
+</table>
+
+<table>
+
+<tr><th><h2>TV Shows/Movies</h2></th></tr>
+
+<tr><td>Mr Robot</td></tr>
+<tr><td>Ghost in the Shell (Movies, Tv Shows etc.)</td></tr>
 </table>
 
 </center>
