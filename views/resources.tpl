@@ -4,16 +4,14 @@
 	
 <h1>Resources</h1>
 
-
-todo - add Ben Eater - youtube channel
-
-
 <table>
 <tr>
-	<th><h2>Books</h2></th>
+	<th><h2>Books/Magazine</h2></th>
 </tr>
 <tr>
 	<td><a href="https://kremlin.cc/k&r.pdf">K&R The C Programming Language</a></td>
+	<tr><td><a href="http://learnyouahaskell.com/"> LearnYouAHaskell - </a> E-book for haskell</td></tr>
+	<tr><td>Phrack - Hacking magazine </td></tr>
 </tr>
 
 </table>
@@ -21,9 +19,8 @@ todo - add Ben Eater - youtube channel
 <br>
 
 <table>
-<tr>
-	<th><h2>Youtube Channels</h2></th>
-<tr>
+	<tr><th><h2>Youtube channels</h2></th></tr>
+
 	<td><a href="https://www.youtube.com/user/derekbanas">Derek Banas</a> - Channel with many videos teaching basics of a programming language in a 1 hour video.</td>
 </tr>
 
@@ -33,7 +30,6 @@ todo - add Ben Eater - youtube channel
 <tr>
 	<td><a href="https://www.youtube.com/user/RootOfTheNull">John Hammond</a> - Ctf Channel</td>
 </tr>
-
 <tr>
 	<td><a href="https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q">Hackersploit</a> - Ctf Channel</td>
 </tr>
@@ -45,6 +41,19 @@ todo - add Ben Eater - youtube channel
 </tr>
 <tr>
 	<td><a href="https://www.youtube.com/user/MentalOutlawStudios">Mental Outlaw</a> - Linux Stuff</td>
+</tr>
+
+<tr>
+	<td><a href="https://www.youtube.com/user/eaterbc">Ben Eater</a> - Hardware and ML</td>
+</tr>
+<tr>
+	<td><a href="https://www.youtube.com/user/enyay">Tom Scott</a> - Basics </td>
+</tr>
+<tr>
+	<td><a href="https://www.youtube.com/user/Computerphile">ComputerPhile</a> - Use of various network tools </td>
+</tr>
+<tr>
+	<td><a href="https://www.youtube.com/user/Computerphile">ComputerPhile</a> - Use of various network tools </td>
 </tr>
 </table>
 
@@ -72,17 +81,13 @@ todo - add Ben Eater - youtube channel
 
 <tr><td><a href="https://mango.pdf.zone/">mangopdfzone</a> - Mangopdf, also has a twitter</td></tr>
 <tr><td><a href="https://www.shaankhan.dev/">Hea^y's Website</a> - Hea^y's Website</td></tr>
+<tr><td><a href="https://wu.fyi/">Kite's website</a> - Kite's Website</td></tr>
 
 </table>
-
-
 <br>
 
-
 <table>
-
 <tr><th><h2>TV Shows/Movies</h2></th></tr>
-
 <tr><td>Mr Robot</td></tr>
 <tr><td>Ghost in the Shell (Movies, Tv Shows etc.)</td></tr>
 </table>
@@ -100,28 +105,19 @@ todo - add Ben Eater - youtube channel
 
 <table>
 
-
-
-
 <tr><th><h2>Programs List</h2></th></tr>
 
-<tr><td>zathura</td></tr> 
-<tr><td>htop</td></tr> 
-<tr><td>ranger</td></tr> 
-<tr><td>git</td></tr> 
-<tr><td>ssh</td></tr> 
+<tr><td>zathura - vim as a word processor. </td></tr> 
+<tr><td>htop - A process manager.</td></tr> 
+<tr><td>ranger - vim based directory for your desktop</td></tr> 
+<tr><td>git - github as a CLI, to remotely control work. </td></tr> 
+<tr><td><img src="https://www.edureka.co/blog/wp-content/uploads/2016/11/Centralized-Version-Control-System-Workflow-What-Is-Git-Edureka.png" alt="Git Diagram" style="width: 400px; height:200px;" > </td></tr> 
+<tr><td>SSH - Secure Shell for operating network services over an unsecured network</td></tr> 
 <tr><td></td></tr> 
 <tr><td></td></tr> 
 <tr><td><a href="https://wiki.archlinux.org/index.php">Arch List of Applications</a> - Arch List of Applications</td></tr>
 <tr><td><a href="https://lukesmith.xyz/programs.html">Luke Smith's List of Applications</a> - Luke Smith's List of Applications</td></tr>
 <tr><td><a href="https://suckless.org/rocks/">Suckless list of programs</a> - Suckless List of Programs</td></tr>
-
-
-
-
-
-
-
 
 </table>
 
@@ -131,18 +127,14 @@ todo - add Ben Eater - youtube channel
 
 <!-- <tr><td><a href=""></a> - </td></tr> -->
 
-
 <tr><th><h2>CTF's</h2></th></tr>
 
-<tr><td><a href="https://overthewire.org/wargames/">Over The Wire</a> - website with several ctf's, Bandit is for beginners etc. start here, very good</td></tr>
-<tr><td><a href="http://overthewire.org/wargames/bandit/">Over the wire Bandit</a> - The bandit ctf which teaches many core linux commands</td></tr>
-<tr><td><a href="https://picoctf.com/">picoctf</a> - ctf covering various areas, with difficulty increasing as you solve more puzzles</td></tr>
-<tr><td><a href="https://downunderctf.com/">downunderctf</a> - downunderctf</td></tr>
+<tr><td><a href="https://overthewire.org/wargames/">Over The Wire</a> - website with several CTF's, Bandit is for beginners etc. start here, very good</td></tr>
+<tr><td><a href="http://overthewire.org/wargames/bandit/">Over the wire Bandit</a> - The bandit CTF which teaches many core linux commands</td></tr>
+<tr><td><a href="https://picoctf.com/">Picoctf</a> - CTF covering various areas, with difficulty increasing as you solve more puzzles</td></tr>
+<tr><td><a href="https://downunderctf.com/">Downunderctf</a> - downunderctf</td></tr>
 <tr><td>The various google ctf's</td></tr>
 </table>
-
-
-
 
 <table>
 	
