@@ -1,12 +1,29 @@
 %rebase('template.tpl')
 
+<head>
+	<style>	
+		table {
+  			font-family: arial, sans-serif;
+ 			 border-collapse: collapse;
+ 			 width: 100%;
+		}
+		td, th {
+ 			 border: 1px solid #dddddd;
+ 			 text-align: left;
+ 			 padding: 8px;
+		}
+		tr:nth-child(even) {
+		}
+	</style>
+</head>
+
 <h1> Talks </h1>
 
 <center>
 	List of talks and notes written by contributors. 
 </center>
 
-<table style="width:100%">
+<table>
   <tr>
     <th><b>Name: </b></th>
     <th><b>Talk Name: </b></th>

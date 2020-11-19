@@ -6,15 +6,11 @@
 
 <table>
 <tr>
-	<th><h2>Books/Magazine</h2></th>
+	<th><h2>Books</h2></th>
 </tr>
 <tr>
 	<td><a href="https://kremlin.cc/k&r.pdf">K&R The C Programming Language</a></td>
 	<tr><td><a href="http://learnyouahaskell.com/"> LearnYouAHaskell - </a> E-book for haskell</td></tr>
-	<tr><td>Phrack - Hacking magazine </td></tr>
-</tr>
-<tr>
-	<td><a href="http://learnyouahaskell.com/">Learn You A Haskell</a></td>
 </tr>
 </table>
 
@@ -46,12 +42,6 @@
 </tr>
 
 <tr>
-	<td><a href="https://www.youtube.com/user/eaterbc">Ben Eater</a> - Hardware and ML</td>
-</tr>
-<tr>
-	<td><a href="https://www.youtube.com/user/enyay">Tom Scott</a> - Basics </td>
-</tr>
-<tr>
 	<td><a href="https://www.youtube.com/user/eaterbc">Ben Eater</a> - Building a Breadboard Computer/Hardware Stuff</td>
 </tr>
 
@@ -61,7 +51,7 @@
 <tr>
 	<td><a href="https://www.youtube.com/user/Computerphile">Computerphile</a> - More in depth videos on Computer Science</td>
 </tr>
-
+<td><a href="https://www.youtube.com/c/TheCyberMentor">TCM</a> - OSCP Training / Pentesting training </td></tr>
 </table>
 
 <br>
@@ -86,7 +76,6 @@
 
 <table>
 	<tr><th><h2>Blogs</h2></th></tr>
-
 <tr><td><a href="https://mango.pdf.zone/">mangopdfzone</a> - Mangopdf, also has a twitter</td></tr>
 <tr><td><a href="https://www.shaankhan.dev/">Hea^y's Website</a> - Hea^y's Website</td></tr>
 <tr><td><a href="https://wu.fyi/">Kite's website</a> - Kite's Website</td></tr>
@@ -147,6 +136,7 @@
 	
 	<tr><th><h2>misc</h2></th></tr>
 	<tr><td>Nothing here, come back later</td></tr>
+	<tr><td> <a href= "https://mirror.aarnet.edu.au/pub/CTAN/macros/latex/contrib/beamer-contrib/themes/metropolis/demo/demo.pdf">Metropolis</a> - Open source Template </td></tr>
 
 </table>
 
