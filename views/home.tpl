@@ -5,8 +5,9 @@
 </head>
 
 <center>
-<div>
-	<iframe width="500" height="500" src = "https://www.youtube.com/watch?v=S8s9uzPIqQ4">welcome</iframe>
+<h1> Welcome to Hacks! </h1>
+<h2> Who we are: </h2>
+<tr> An association of students who are interested in the study of computing and security.</tr><br>
+<tr> 
 
-</div>
 </center>

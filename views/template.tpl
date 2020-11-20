@@ -10,10 +10,11 @@
 <body>
 	<div>
 		<center>
-			<a href="/"><u>home</u></a>
-			<a href="/intro"><u>introduction</u></a>
-			<a href="/talks"><u>talks</u></a>
-			<a href="/resources"><u>resources</u></a>
+			<a href="/"><u>Home</u></a>
+			<a href="/intro"><u>Introduction</u></a>
+			<a href="/talks"><u>Talks</u></a>
+			<a href="/resources"><u>Resources</u></a>
+			<a href="/blogs"><u>Blogs</u></a>
 		</center>
 		<br>
 	</div>

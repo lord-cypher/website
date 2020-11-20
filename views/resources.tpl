@@ -52,6 +52,7 @@
 	<td><a href="https://www.youtube.com/user/Computerphile">Computerphile</a> - More in depth videos on Computer Science</td>
 </tr>
 <td><a href="https://www.youtube.com/c/TheCyberMentor">TCM</a> - OSCP Training / Pentesting training </td></tr>
+<td><a href="https://www.youtube.com/watch?v=3Kq1MIfTWCE">Free Code Camp </a> - OSCP training in a 15hr video </td></tr>
 </table>
 
 <br>
@@ -69,6 +70,9 @@
 <tr><td><a href="https://wiki.installgentoo.com/index.php/Main_Page">Install Gentoo Wiki</a> - The Install Gentoo Wiki</td></tr>
 <tr><td><a href="https://suckless.org/">Suckless</a> - Suckless</td></tr>
 <tr><td><a href="http://phrack.org/">Phrack</a> - An Ezine about Hacking</td></tr>
+<tr><td><a href="http://textfiles.com/hacking/UNIX/">Unix textfiles</a>- Articles (Outdated)</td></tr>
+<tr><td><a href="hhttp://textfiles.com/anarchy/CARDING/tralia.txt">OSINT Recon</a>- Old recon method(Outdated)</td></tr>
+<tr><td><a href="https://www.youtube.com/channel/UC6Om9kAkl32dWlDSNlDS9Iw">DEFCONConference</a>- DEFCON Speakers</td></tr>
 
 </table>
 
@@ -80,13 +84,6 @@
 <tr><td><a href="https://www.shaankhan.dev/">Hea^y's Website</a> - Hea^y's Website</td></tr>
 <tr><td><a href="https://wu.fyi/">Kite's website</a> - Kite's Website</td></tr>
 
-</table>
-<br>
-
-<table>
-<tr><th><h2>TV Shows/Movies</h2></th></tr>
-<tr><td>Mr Robot</td></tr>
-<tr><td>Ghost in the Shell (Movies, Tv Shows etc.)</td></tr>
 </table>
 <br>
 
@@ -107,7 +104,6 @@
 <tr><td>htop - A process manager.</td></tr> 
 <tr><td>ranger - vim based directory for your desktop</td></tr> 
 <tr><td>git - github as a CLI, to remotely control work. </td></tr> 
-<tr><td><img src="https://www.edureka.co/blog/wp-content/uploads/2016/11/Centralized-Version-Control-System-Workflow-What-Is-Git-Edureka.png" alt="Git Diagram" style="width: 400px; height:200px;" > </td></tr> 
 <tr><td>SSH - Secure Shell for operating network services over an unsecured network</td></tr> 
 <tr><td></td></tr> 
 <tr><td></td></tr> 
@@ -138,14 +134,6 @@
 	<tr><td>Nothing here, come back later</td></tr>
 	<tr><td> <a href= "https://mirror.aarnet.edu.au/pub/CTAN/macros/latex/contrib/beamer-contrib/themes/metropolis/demo/demo.pdf">Metropolis</a> - Open source Template </td></tr>
 
-</table>
-
-<table>
-
-<tr><th><h2>TV Shows/Movies</h2></th></tr>
-
-<tr><td>Mr Robot</td></tr>
-<tr><td>Ghost in the Shell (Movies, Tv Shows etc.)</td></tr>
 </table>
 
 </center>

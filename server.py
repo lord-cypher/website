@@ -23,6 +23,10 @@ def talk():
 def resources():
 	return template('resources')
 
+@route('/blogs')
+def resources():
+	return template('blogs')
+
 # @route('/blog')
 # def blog():
 # 	return template('blog')
