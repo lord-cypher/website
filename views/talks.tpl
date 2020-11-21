@@ -52,6 +52,7 @@
     <td>Smedley8</td>
     <td>Escaping the JVM Sandbox</td>
     <td>21/11/20</td>
+	<td><a href="/talkSlides/Escaping_the_Java_Sandbox.pdf" Slides are here.</a> Slides</td>
 	<!-- link to /resources <a href="https://139.180.166.10/resources"> Smedley8's Talk Notes</a> --!>
   </tr>
   <tr>
