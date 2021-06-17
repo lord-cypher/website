@@ -23,6 +23,10 @@ def talk():
 def resources():
 	return template('resources')
 
+@route('/blogs')
+def resources():
+	return template('blogs')
+
 # @route('/blog')
 # def blog():
 # 	return template('blog')
@@ -229,11 +233,11 @@ def error404(error):
 	return template('blank', content='Nothing here, sorry.')
 
 # for dev
-# run(host='localhost', port=8080, debug=True, reloader=True, server='paste')
+run(host='localhost', port=8080, debug=True, reloader=True, server='paste')
 
 # for deploy
 bottle.run(host='0.0.0.0', port=80, server='paste')
 
 
 # for live
-# run(host=?, port=80?)
+# run(host=?, port=80)

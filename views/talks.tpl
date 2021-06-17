@@ -1,12 +1,29 @@
 %rebase('template.tpl')
 
+<head>
+	<style>	
+		table {
+  			font-family: arial, sans-serif;
+ 			 border-collapse: collapse;
+ 			 width: 100%;
+		}
+		td, th {
+ 			 border: 1px solid #dddddd;
+ 			 text-align: left;
+ 			 padding: 8px;
+		}
+		tr:nth-child(even) {
+		}
+	</style>
+</head>
+
 <h1> Talks </h1>
 
 <center>
 	List of talks and notes written by contributors. 
 </center>
 
-<table style="width:100%">
+<table>
   <tr>
     <th><b>Name: </b></th>
     <th><b>Talk Name: </b></th>
@@ -35,6 +52,7 @@
     <td>Smedley8</td>
     <td>Escaping the JVM Sandbox</td>
     <td>21/11/20</td>
+	<td><a href="/talkSlides/Escaping_the_Java_Sandbox.pdf" Slides are here.</a> Slides</td>
 	<!-- link to /resources <a href="https://139.180.166.10/resources"> Smedley8's Talk Notes</a> --!>
   </tr>
   <tr>
